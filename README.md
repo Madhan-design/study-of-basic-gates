@@ -87,4 +87,6 @@ endmoduleoading exp1.v…]()
 
 [exp1](https://github.com/user-attachments/assets/f7969b9f-47c1-4010-bedc-7a447624ab75)
 
+*Result*
+therefore the basic logic gates and truth tables are verified and studied
 
